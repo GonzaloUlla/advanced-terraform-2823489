@@ -8,6 +8,10 @@ aws_access_key = ""
 
 aws_secret_key = ""
 
+aws_session_token = ""
+
 ssh_key_name = ""
 
 private_key_path = ""
+
+my_public_ipv4 = ""
